@@ -27,6 +27,7 @@ function App() {
             <AboutUs />
           </div>
         </div>
+        //ls
       </header>
 
       <div className={`event-list-container ${showVenue ? 'visible' : ''}`}>
